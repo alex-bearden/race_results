@@ -1,4 +1,4 @@
-# fresh15
+# race_results
 Scraping, cleaning, exploring, and visualizing Fresh 15k race results
 
 This repository contains:
